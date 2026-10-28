@@ -1,0 +1,1 @@
+FAIL # <- 1-nél nagyobb hibaráta érték
