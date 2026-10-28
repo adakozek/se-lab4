@@ -1,0 +1,2 @@
+# FAIL <- Minusz hibaráta érték
+SUCCESS

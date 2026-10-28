@@ -1,0 +1,4 @@
+#FAIL <- Mínusz hibaráta érték
+# FAIL <- 1-nél nagyobb hibaráta érték
+SUCCESS
+SUCCESS

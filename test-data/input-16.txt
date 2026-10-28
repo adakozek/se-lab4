@@ -1,0 +1,4 @@
+# if torpedo store is empty fiaring mode SINGLE
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
