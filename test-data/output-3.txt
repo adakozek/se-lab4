@@ -1,1 +1,2 @@
-FAIL # <- Mínusz hibaráta érték
+# FAIL # <- Mínusz hibaráta érték
+SUCCESS
